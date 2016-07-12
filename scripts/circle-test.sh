@@ -53,11 +53,6 @@ check_go_fmt
 # Build the code
 exit_if_fail make
 
-# Run the tests
-exit_if_fail go vet ./...
-exit_if_fail make docker-run-circle
-sleep 10
-exit_if_fail go test -race ./...
 
 # Simple Integration Tests
 #   check that version was properly set

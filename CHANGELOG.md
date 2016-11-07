@@ -14,6 +14,7 @@
 - [filecount](./plugins/inputs/filecount/README.md) - Contributed by @sometimesfood
 - [pgbouncer](./plugins/inputs/pgbouncer/README.md) - Contributed by @nerzhul
 - [activemq](./plugins/inputs/activemq/README.md) - Contributed by @mlabouardy
+- [openstack](./plugins/inputs/openstack/README.md) - Contributed by @spjmurray
 
 ### New Processors
 
@@ -63,6 +64,7 @@
 - [#4528](https://github.com/influxdata/telegraf/pull/4528): Add rename processor.
 - [#4537](https://github.com/influxdata/telegraf/pull/4537): Add message 'max_bytes' configuration to kafka input.
 - [#4546](https://github.com/influxdata/telegraf/pull/4546): Add gopsutil meminfo fields to mem plugin.
+- [#2013](https://github.com/influxdata/telegraf/pull/2013): OpenStack Input Plugin
 
 ## v1.7.3 [2018-08-07]
 

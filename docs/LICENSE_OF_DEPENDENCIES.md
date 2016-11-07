@@ -33,6 +33,7 @@ following works:
 - github.com/golang/protobuf [BSD](https://github.com/golang/protobuf/blob/master/LICENSE)
 - github.com/golang/snappy [BSD](https://github.com/golang/snappy/blob/master/LICENSE)
 - github.com/go-logfmt/logfmt [MIT](https://github.com/go-logfmt/logfmt/blob/master/LICENSE)
+- github.com/gophercloud/gophercloud [APACHE](https://github.com/gophercloud/gophercloud/blob/master/LICENSE)
 - github.com/gorilla/mux [BSD](https://github.com/gorilla/mux/blob/master/LICENSE)
 - github.com/go-ini/ini [APACHE](https://github.com/go-ini/ini/blob/master/LICENSE)
 - github.com/go-ole/go-ole [MPL](http://mattn.mit-license.org/2013)
